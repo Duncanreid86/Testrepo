@@ -1,0 +1,6 @@
+select 
+*
+FORM
+`test.file`
+WHERE
+duncan = "boss"
